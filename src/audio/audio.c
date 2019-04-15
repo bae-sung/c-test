@@ -1,0 +1,4 @@
+
+void audio_foo()
+{
+}

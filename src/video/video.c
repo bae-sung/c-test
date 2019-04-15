@@ -1,0 +1,4 @@
+
+void video_foo()
+{
+}
